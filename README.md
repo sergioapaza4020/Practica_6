@@ -1,4 +1,4 @@
-# PRÁCTICA 05
+# PRÁCTICA 06
 ## DATOS
 **OWNER:** Univ. Sergio Moises Apaza Caballero  
 **DOCENTE:** Ing. Gustavo Puita  
