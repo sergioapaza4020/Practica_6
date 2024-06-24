@@ -1,4 +1,4 @@
-# PRÁCTICA 06
+# PRÁCTICA 07 - FUENTES DE ALIMENTACIÓN
 ## DATOS
 **OWNER:** Univ. Sergio Moises Apaza Caballero  
 **DOCENTE:** Ing. Gustavo Puita  
